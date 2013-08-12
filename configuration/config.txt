@@ -5,5 +5,9 @@ Globals {
 }
 
 NetBridge {
-  host = "131.216.164.171"
+  host = "131.216.164.213"
+
+  input-translate = "1080 0"
+  input-rotate = "90"
+
 }
