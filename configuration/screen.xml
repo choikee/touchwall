@@ -1,32 +1,51 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<multihead type="HasValues">
-
-  <dpms type="vector">0 0 0</dpms>
-
-  <widthcm type="float">100</widthcm>
-
-  <window type="window">
-    <area type="area">
-      <active type="int">1</active>
-      <comment type="string"></comment>
-      <graphicslocation type="vector">0 0</graphicslocation>
-      <graphicssize type="vector">1920 1080</graphicssize>
-      <keystone type="glkeystone">
-        <rotations type="int">0</rotations>
-        <v1 type="vector">0 0</v1>
-        <v2 type="vector">1 0</v2>
-        <v3 type="vector">1 1</v3>
-        <v4 type="vector">0 1</v4>
-      </keystone>
-      <location type="vector">0 0</location>
-      <seams type="vector">0 0 0 0</seams>
-      <size type="vector">1920 1080</size>
-    </area>
-    <frameless type="int">1</frameless>
-    <fullscreen type="int">0</fullscreen>
-    <location type="vector">0 0</location>
-    <resizeable type="int">0</resizeable>
-    <size type="vector">1920 1080</size>
-  </window>
-
-</multihead>
+<!DOCTYPE mtdoc>
+<MultiHead type="">
+ <Window type="window">
+  <Area type="area">
+   <colorcorrection type="">
+    <brightness type="">0 0 0</brightness>
+    <contrast type="">1 1 1</contrast>
+    <gamma type="">1 1 1</gamma>
+    <id type="">23016052076255630</id>
+    <red>0 0 1 1 </red>
+    <green>0 0 1 1 </green>
+    <blue>0 0 1 1 </blue>
+   </colorcorrection>
+   <graphicslocation type="">0 0</graphicslocation>
+   <graphicssize type="">1080 1920</graphicssize>
+   <id type="">23016052076255628</id>
+   <keystone type="">
+    <id type="">23016052076255629</id>
+    <rotations type="">0</rotations>
+    <v1 type="">0 0</v1>
+    <v2 type="">1 0</v2>
+    <v3 type="">1 1</v3>
+    <v4 type="">0 1</v4>
+   </keystone>
+   <location type="">0 0</location>
+   <method type="">1</method>
+   <rgbcube type="">
+    <dimension type="">32</dimension>
+    <division type="">0</division>
+    <id type="">23016052076255632</id>
+    <rgb-table/>
+   </rgbcube>
+   <seams type="">0 0 0 0</seams>
+   <size type="">1080 1920</size>
+  </Area>
+  <direct-rendering type="">1</direct-rendering>
+  <frameless type="">1</frameless>
+  <fsaa-samples type="">4</fsaa-samples>
+  <fullscreen type="">0</fullscreen>
+  <id type="">23016052076255627</id>
+  <location type="">0 0</location>
+  <resizeable type="">0</resizeable>
+  <screennumber type="">-1</screennumber>
+  <size type="">1080 1920</size>
+ </Window>
+ <dpi type="">40.053</dpi>
+ <dpms type="">0 0 0</dpms>
+ <hw-color-correction type="">0</hw-color-correction>
+ <iconify type="">0</iconify>
+ <id type="">23016052076255625</id>
+</MultiHead>
