@@ -1,0 +1,9 @@
+Globals {
+  binary-server-port = "0"
+  xml-handshake-port = "0"
+  xml-server-port = "0"
+}
+
+NetBridge {
+  host = "131.216.164.171"
+}
